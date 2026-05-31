@@ -2,3 +2,4 @@ flask
 pdfplumber
 python-docx
 gunicorn
+google-genai
